@@ -21,4 +21,14 @@ public class LoginPage extends BaseClassEx {
 	@FindBy(xpath = "//input[@type='Submit']")
 	public WebElement loginBtn;
 
+	
+	//Method
+	public String getText1() {
+		return null;
+		
+	}
+	public String getText2() {
+		return null;
+		
+	}
 }
