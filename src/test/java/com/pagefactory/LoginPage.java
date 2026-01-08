@@ -23,7 +23,11 @@ public class LoginPage extends BaseClassEx {
 
 	
 	//Method
-	public String getText() {
+	public String getText1() {
+		return null;
+		
+	}
+	public String getText2() {
 		return null;
 		
 	}
